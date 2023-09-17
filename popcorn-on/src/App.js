@@ -71,7 +71,7 @@ export default function App() {
       </Main>
     </>
   );
-}
+} 
 
 function Navbar({ children }) {
   // Structual component
