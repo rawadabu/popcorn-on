@@ -9,7 +9,7 @@ root.render(
     {/* <App /> */}
     <StarRating maxRating={5} />
     <StarRating maxRating={10} />
-    <StarRating />
+    {/* <StarRating /> */}
     <StarRating />
   </React.StrictMode>
 );
